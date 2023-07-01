@@ -1,5 +1,5 @@
 # rust-self-delete
-Self-deletion running executable self-deletion from disk in Rust
+Self-deletion running executable from disk in Rust
 The code uses Windows API bindings to achieve the self-deletion functionality. Here's a breakdown of the process:
 
 1. The code retrieves the path of the current executable file and stores it in a buffer.
